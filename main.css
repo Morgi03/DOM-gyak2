@@ -1,0 +1,18 @@
+#cola {
+    width: 33%;
+    height: 33%;
+}
+#hamburger {
+    width: 33%;
+    float: none;
+    margin: auto;
+    height: 33%;
+}
+#hotdog {
+    width: 33%;
+    height: 33%;
+}
+#kepek{
+    margin: auto;
+    display: block;
+}
